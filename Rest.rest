@@ -1,0 +1,9 @@
+GET http://localhost:5000/longi/500
+###
+POST http://localhost:5000 HTTP/1.1
+content-Type: application/json
+
+{
+    "brand":"Longi",
+    "watt":500
+}

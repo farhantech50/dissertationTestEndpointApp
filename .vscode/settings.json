@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e572fdc4-ca19-4a46-9544-bee34ce991a7/resourceGroups/lbunodejsEndpoint_group/providers/Microsoft.Web/sites/lbunodejsEndpoint",
+    "appService.deploySubpath": "."
+}
